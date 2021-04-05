@@ -1,0 +1,15 @@
+
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Log files
+*.log
+
+# IDE stuff
+/.idea/
+
+# vi temporary files
+*.swp
+
